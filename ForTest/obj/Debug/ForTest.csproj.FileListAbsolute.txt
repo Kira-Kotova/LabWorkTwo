@@ -1,0 +1,11 @@
+D:\Aliger\Lulz\LabWorkTwo\ForTest\bin\Debug\ForTest.exe
+D:\Aliger\Lulz\LabWorkTwo\ForTest\bin\Debug\ForTest.pdb
+D:\Aliger\Lulz\LabWorkTwo\ForTest\bin\Debug\Algebra.dll
+D:\Aliger\Lulz\LabWorkTwo\ForTest\bin\Debug\Algebra.pdb
+D:\Aliger\Lulz\LabWorkTwo\ForTest\obj\Debug\ForTest.csprojResolveAssemblyReference.cache
+D:\Aliger\Lulz\LabWorkTwo\ForTest\obj\Debug\ForTest.exe
+D:\Aliger\Lulz\LabWorkTwo\ForTest\obj\Debug\ForTest.pdb
+D:\Aliger\Lulz\LabWorkTwo\ForTest\bin\Debug\ForTest.exe.manifest
+D:\Aliger\Lulz\LabWorkTwo\ForTest\bin\Debug\ForTest.application
+D:\Aliger\Lulz\LabWorkTwo\ForTest\obj\Debug\ForTest.exe.manifest
+D:\Aliger\Lulz\LabWorkTwo\ForTest\obj\Debug\ForTest.application

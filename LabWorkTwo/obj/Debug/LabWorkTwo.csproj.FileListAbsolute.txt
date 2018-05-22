@@ -1,0 +1,7 @@
+D:\Aliger\Lulz\LabWorkTwo\LabWorkTwo\bin\Debug\LabWorkTwo.exe
+D:\Aliger\Lulz\LabWorkTwo\LabWorkTwo\bin\Debug\LabWorkTwo.pdb
+D:\Aliger\Lulz\LabWorkTwo\LabWorkTwo\bin\Debug\Algebra.dll
+D:\Aliger\Lulz\LabWorkTwo\LabWorkTwo\bin\Debug\Algebra.pdb
+D:\Aliger\Lulz\LabWorkTwo\LabWorkTwo\obj\Debug\LabWorkTwo.csprojResolveAssemblyReference.cache
+D:\Aliger\Lulz\LabWorkTwo\LabWorkTwo\obj\Debug\LabWorkTwo.exe
+D:\Aliger\Lulz\LabWorkTwo\LabWorkTwo\obj\Debug\LabWorkTwo.pdb

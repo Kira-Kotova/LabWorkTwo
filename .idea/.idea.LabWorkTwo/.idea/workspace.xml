@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5101cf3e-9c94-4cfe-adea-8ed7a87115df" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Polynome.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algebra/Polynome.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="145" column="1" selection-end-line="145" selection-end-column="1" />
+              <folding>
+                <marker date="1527008981886" expanded="true" signature="6:92" ph="..." />
+                <marker date="1527008981886" expanded="true" signature="111:4637" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="161:4634" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="227:342" ph="/// Конструктор копирования ... " />
+                <marker date="1527008981886" expanded="true" signature="395:587" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="637:717" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="727:973" ph="/// Неявное приведение типа &lt;see cref=&quot;Monome&quot;/&gt; к типу &lt;see cref=&quot;Polynome&quot;/&gt;. ... " />
+                <marker date="1527008981886" expanded="true" signature="1103:1324" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="1496:4611" ph="Operators" />
+                <marker date="1527008981886" expanded="true" signature="1582:1745" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="1822:1985" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="2062:2225" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="2290:2714" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="2781:3235" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="3308:3623" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="3891:4026" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="4093:4229" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="4296:4592" ph="{...}" />
+                <marker date="1527008981886" expanded="true" signature="4442:4555" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssemblyInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algebra/Properties/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <folding>
+                <marker date="1524338847203" expanded="true" signature="6:62" ph="..." />
+                <marker date="1524338847203" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+                <marker date="1524338847203" expanded="true" signature="552:762" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+                <marker date="1524338847203" expanded="true" signature="937:1264" ph="/* Version information for an assembly consists of the following four values: ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Monome.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algebra/Monome.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="105" selection-start-line="105" selection-end-line="105" />
+              <folding>
+                <marker date="1527008242769" expanded="true" signature="6:102" ph="..." />
+                <marker date="1527008242769" expanded="true" signature="121:4381" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="147:4038" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="242:517" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="303:507" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="544:819" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="605:809" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="829:1017" ph="/// Конструктор монома. ... " />
+                <marker date="1527008242769" expanded="true" signature="1074:1152" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="1197:1374" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="1392:1525" ph="/// Конструктор копирования. ... " />
+                <marker date="1527008242769" expanded="true" signature="1563:1673" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="1793:2033" ph="/// Неявное приведение типа &lt;see cref=&quot;double&quot;/&gt; к типу &lt;see cref=&quot;Monome&quot;/&gt;. ... " />
+                <marker date="1527008242769" expanded="true" signature="2169:2452" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="2462:4032" ph="Operators" />
+                <marker date="1527008242769" expanded="true" signature="2544:2639" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="2712:2807" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="2880:2975" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="4044:4106" ph="/// Сравнение по степени. ... " />
+                <marker date="1527008242769" expanded="true" signature="4159:4378" ph="{...}" />
+                <marker date="1527008242769" expanded="true" signature="4212:4372" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Inputs.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algebra/Inputs.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <marker date="1524354342388" expanded="true" signature="80:505" ph="{...}" />
+                <marker date="1524354342388" expanded="true" signature="137:499" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ForTest/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <marker date="1527009386530" expanded="true" signature="6:43" ph="..." />
+                <marker date="1527009386530" expanded="true" signature="62:948" ph="{...}" />
+                <marker date="1527009386530" expanded="true" signature="91:946" ph="{...}" />
+                <marker date="1527009386530" expanded="true" signature="131:940" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ForTest/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algebra/Inputs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algebra/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algebra/Polynome.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LabWorkTwo/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algebra/Monome.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClassLibrary/Class1.cs" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ClassLibrary/Class1.cs" />
+        <option value="$PROJECT_DIR$/Algebra/Class1.cs" />
+        <option value="$PROJECT_DIR$/Algebra/INome.cs" />
+        <option value="$PROJECT_DIR$/Algebra/Choises.cs" />
+        <option value="$PROJECT_DIR$/Algebra/Choice.cs" />
+        <option value="$PROJECT_DIR$/Algebra/Experimental.cs" />
+        <option value="$PROJECT_DIR$/Algebra/Inputs.cs" />
+        <option value="$PROJECT_DIR$/LabWorkTwo/Program.cs" />
+        <option value="$PROJECT_DIR$/Test/Class1.cs" />
+        <option value="$PROJECT_DIR$/Test/TestAlgebra.cs" />
+        <option value="$PROJECT_DIR$/Algebra/Monome.cs" />
+        <option value="$PROJECT_DIR$/Algebra/Polynome.cs" />
+        <option value="$PROJECT_DIR$/ForTest/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="100" />
+    <option name="y" value="42" />
+    <option name="width" value="1815" />
+    <option name="height" value="989" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LabWorkTwo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LabWorkTwo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Algebra" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LabWorkTwo (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ForTest" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/ПЕНТАГОН/TestWork/TestWork.sln" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ForTest/bin/Debug/ForTest.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ForTest/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ForTest/ForTest.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5101cf3e-9c94-4cfe-adea-8ed7a87115df" name="Default" comment="" />
+      <created>1524336120232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524336120232</updated>
+      <workItem from="1524338303289" duration="913000" />
+      <workItem from="1524339560009" duration="17744000" />
+      <workItem from="1524377971193" duration="1457000" />
+      <workItem from="1526287103444" duration="6612000" />
+      <workItem from="1526730747312" duration="188000" />
+      <workItem from="1526731001523" duration="1878000" />
+      <workItem from="1526732969036" duration="9895000" />
+      <workItem from="1526743882177" duration="878000" />
+      <workItem from="1526842599800" duration="2286000" />
+      <workItem from="1526904310651" duration="4744000" />
+      <workItem from="1526995385452" duration="9791000" />
+      <workItem from="1527006238713" duration="1098000" />
+      <workItem from="1527007628893" duration="2311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59795000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="100" y="42" width="1815" height="989" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5107034" side_tool="true" weight="0.33603707" />
+      <window_info anchor="bottom" id="Unit Tests" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2775061" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48929664" weight="0.33560863" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06843013" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Build" order="13" visible="true" weight="0.47921762" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31513083" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10580021" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24118316" />
+      <window_info anchor="bottom" id="Unit Tests" order="9" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31513083" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48929664" weight="0.33560863" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5107034" side_tool="true" weight="0.33603707" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.16609783" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="73" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ForTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="12" selection-end-line="39" />
+          <folding>
+            <marker date="1527009386530" expanded="true" signature="6:43" ph="..." />
+            <marker date="1527009386530" expanded="true" signature="62:948" ph="{...}" />
+            <marker date="1527009386530" expanded="true" signature="91:946" ph="{...}" />
+            <marker date="1527009386530" expanded="true" signature="131:940" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ForTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <marker date="1527009386530" expanded="true" signature="6:43" ph="..." />
+            <marker date="1527009386530" expanded="true" signature="62:948" ph="{...}" />
+            <marker date="1527009386530" expanded="true" signature="91:946" ph="{...}" />
+            <marker date="1527009386530" expanded="true" signature="131:940" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabWorkTwo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1524338847203" expanded="true" signature="6:62" ph="..." />
+            <marker date="1524338847203" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1524338847203" expanded="true" signature="552:762" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1524338847203" expanded="true" signature="937:1264" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Monome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="1" lean-forward="true" selection-end-line="133" selection-end-column="1" />
+          <folding>
+            <marker date="1527008242769" expanded="true" signature="6:102" ph="..." />
+            <marker date="1527008242769" expanded="true" signature="121:4381" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="147:4038" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="242:517" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="303:507" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="544:819" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="605:809" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="829:1017" ph="/// Конструктор монома. ... " />
+            <marker date="1527008242769" expanded="true" signature="1074:1152" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1197:1374" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1392:1525" ph="/// Конструктор копирования. ... " />
+            <marker date="1527008242769" expanded="true" signature="1563:1673" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1793:2033" ph="/// Неявное приведение типа &lt;see cref=&quot;double&quot;/&gt; к типу &lt;see cref=&quot;Monome&quot;/&gt;. ... " />
+            <marker date="1527008242769" expanded="true" signature="2169:2452" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2462:4032" ph="Operators" />
+            <marker date="1527008242769" expanded="true" signature="2544:2639" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2712:2807" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2880:2975" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4044:4106" ph="/// Сравнение по степени. ... " />
+            <marker date="1527008242769" expanded="true" signature="4159:4378" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4212:4372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Inputs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1524354342388" expanded="true" signature="80:505" ph="{...}" />
+            <marker date="1524354342388" expanded="true" signature="137:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ForTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <marker date="1527009386530" expanded="true" signature="6:43" ph="..." />
+            <marker date="1527009386530" expanded="true" signature="62:948" ph="{...}" />
+            <marker date="1527009386530" expanded="true" signature="91:946" ph="{...}" />
+            <marker date="1527009386530" expanded="true" signature="131:940" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Polynome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="132" column="35" selection-end-line="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabWorkTwo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Polynome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="69" column="26" lean-forward="true" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1524338847203" expanded="true" signature="6:62" ph="..." />
+            <marker date="1524338847203" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1524338847203" expanded="true" signature="552:762" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1524338847203" expanded="true" signature="937:1264" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Monome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+          <folding>
+            <marker date="1527008242769" expanded="true" signature="6:102" ph="..." />
+            <marker date="1527008242769" expanded="true" signature="121:4381" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="147:4038" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="242:517" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="303:507" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="544:819" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="605:809" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="829:1017" ph="/// Конструктор монома. ... " />
+            <marker date="1527008242769" expanded="true" signature="1074:1152" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1197:1374" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1392:1525" ph="/// Конструктор копирования. ... " />
+            <marker date="1527008242769" expanded="true" signature="1563:1673" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1793:2033" ph="/// Неявное приведение типа &lt;see cref=&quot;double&quot;/&gt; к типу &lt;see cref=&quot;Monome&quot;/&gt;. ... " />
+            <marker date="1527008242769" expanded="true" signature="2169:2452" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2462:4032" ph="Operators" />
+            <marker date="1527008242769" expanded="true" signature="2544:2639" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2712:2807" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2880:2975" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4044:4106" ph="/// Сравнение по степени. ... " />
+            <marker date="1527008242769" expanded="true" signature="4159:4378" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4212:4372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Inputs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1524354342388" expanded="true" signature="80:505" ph="{...}" />
+            <marker date="1524354342388" expanded="true" signature="137:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabWorkTwo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Polynome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="149" column="11" selection-start-line="149" selection-start-column="11" selection-end-line="149" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1524338847203" expanded="true" signature="6:62" ph="..." />
+            <marker date="1524338847203" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1524338847203" expanded="true" signature="552:762" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1524338847203" expanded="true" signature="937:1264" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Inputs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1524354342388" expanded="true" signature="80:505" ph="{...}" />
+            <marker date="1524354342388" expanded="true" signature="137:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Monome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <marker date="1527008242769" expanded="true" signature="6:102" ph="..." />
+            <marker date="1527008242769" expanded="true" signature="121:4381" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="147:4038" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="242:517" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="303:507" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="544:819" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="605:809" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="829:1017" ph="/// Конструктор монома. ... " />
+            <marker date="1527008242769" expanded="true" signature="1074:1152" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1197:1374" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1392:1525" ph="/// Конструктор копирования. ... " />
+            <marker date="1527008242769" expanded="true" signature="1563:1673" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1793:2033" ph="/// Неявное приведение типа &lt;see cref=&quot;double&quot;/&gt; к типу &lt;see cref=&quot;Monome&quot;/&gt;. ... " />
+            <marker date="1527008242769" expanded="true" signature="2169:2452" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2462:4032" ph="Operators" />
+            <marker date="1527008242769" expanded="true" signature="2544:2639" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2712:2807" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2880:2975" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4044:4106" ph="/// Сравнение по степени. ... " />
+            <marker date="1527008242769" expanded="true" signature="4159:4378" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4212:4372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabWorkTwo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Polynome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="149" column="11" selection-start-line="149" selection-start-column="11" selection-end-line="149" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1524338847203" expanded="true" signature="6:62" ph="..." />
+            <marker date="1524338847203" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1524338847203" expanded="true" signature="552:762" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1524338847203" expanded="true" signature="937:1264" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Monome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <marker date="1527008242769" expanded="true" signature="6:102" ph="..." />
+            <marker date="1527008242769" expanded="true" signature="121:4381" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="147:4038" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="242:517" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="303:507" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="544:819" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="605:809" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="829:1017" ph="/// Конструктор монома. ... " />
+            <marker date="1527008242769" expanded="true" signature="1074:1152" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1197:1374" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1392:1525" ph="/// Конструктор копирования. ... " />
+            <marker date="1527008242769" expanded="true" signature="1563:1673" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1793:2033" ph="/// Неявное приведение типа &lt;see cref=&quot;double&quot;/&gt; к типу &lt;see cref=&quot;Monome&quot;/&gt;. ... " />
+            <marker date="1527008242769" expanded="true" signature="2169:2452" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2462:4032" ph="Operators" />
+            <marker date="1527008242769" expanded="true" signature="2544:2639" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2712:2807" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2880:2975" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4044:4106" ph="/// Сравнение по степени. ... " />
+            <marker date="1527008242769" expanded="true" signature="4159:4378" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4212:4372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Inputs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1524354342388" expanded="true" signature="80:505" ph="{...}" />
+            <marker date="1524354342388" expanded="true" signature="137:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabWorkTwo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Experimental.cs" />
+    <entry file="file://$PROJECT_DIR$/Algebra/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1524338847203" expanded="true" signature="6:62" ph="..." />
+            <marker date="1524338847203" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1524338847203" expanded="true" signature="552:762" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1524338847203" expanded="true" signature="937:1264" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Monome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+          <folding>
+            <marker date="1527008242769" expanded="true" signature="6:102" ph="..." />
+            <marker date="1527008242769" expanded="true" signature="121:4381" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="147:4038" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="242:517" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="303:507" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="544:819" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="605:809" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="829:1017" ph="/// Конструктор монома. ... " />
+            <marker date="1527008242769" expanded="true" signature="1074:1152" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1197:1374" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1392:1525" ph="/// Конструктор копирования. ... " />
+            <marker date="1527008242769" expanded="true" signature="1563:1673" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1793:2033" ph="/// Неявное приведение типа &lt;see cref=&quot;double&quot;/&gt; к типу &lt;see cref=&quot;Monome&quot;/&gt;. ... " />
+            <marker date="1527008242769" expanded="true" signature="2169:2452" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2462:4032" ph="Operators" />
+            <marker date="1527008242769" expanded="true" signature="2544:2639" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2712:2807" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2880:2975" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4044:4106" ph="/// Сравнение по степени. ... " />
+            <marker date="1527008242769" expanded="true" signature="4159:4378" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4212:4372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Inputs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1524354342388" expanded="true" signature="80:505" ph="{...}" />
+            <marker date="1524354342388" expanded="true" signature="137:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Polynome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Experimental.cs" />
+    <entry file="file://$PROJECT_DIR$/Algebra/Polynome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1524338847203" expanded="true" signature="6:62" ph="..." />
+            <marker date="1524338847203" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1524338847203" expanded="true" signature="552:762" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1524338847203" expanded="true" signature="937:1264" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Monome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <marker date="1527008242769" expanded="true" signature="6:102" ph="..." />
+            <marker date="1527008242769" expanded="true" signature="121:4381" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="147:4038" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="242:517" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="303:507" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="544:819" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="605:809" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="829:1017" ph="/// Конструктор монома. ... " />
+            <marker date="1527008242769" expanded="true" signature="1074:1152" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1197:1374" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1392:1525" ph="/// Конструктор копирования. ... " />
+            <marker date="1527008242769" expanded="true" signature="1563:1673" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1793:2033" ph="/// Неявное приведение типа &lt;see cref=&quot;double&quot;/&gt; к типу &lt;see cref=&quot;Monome&quot;/&gt;. ... " />
+            <marker date="1527008242769" expanded="true" signature="2169:2452" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2462:4032" ph="Operators" />
+            <marker date="1527008242769" expanded="true" signature="2544:2639" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2712:2807" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2880:2975" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4044:4106" ph="/// Сравнение по степени. ... " />
+            <marker date="1527008242769" expanded="true" signature="4159:4378" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4212:4372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Inputs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1524354342388" expanded="true" signature="80:505" ph="{...}" />
+            <marker date="1524354342388" expanded="true" signature="137:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LabWorkTwo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassLibrary/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Algebra/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Algebra/Choises.cs" />
+    <entry file="file://$PROJECT_DIR$/Algebra/Choice.cs" />
+    <entry file="file://$PROJECT_DIR$/Algebra/INome.cs" />
+    <entry file="file://$PROJECT_DIR$/Algebra/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1524338847203" expanded="true" signature="6:62" ph="..." />
+            <marker date="1524338847203" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1524338847203" expanded="true" signature="552:762" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1524338847203" expanded="true" signature="937:1264" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassLibrary/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Experimental.cs" />
+    <entry file="file://$PROJECT_DIR$/Test/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Test/TestAlgebra.cs" />
+    <entry file="file://$PROJECT_DIR$/LabWorkTwo/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Inputs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1524354342388" expanded="true" signature="80:505" ph="{...}" />
+            <marker date="1524354342388" expanded="true" signature="137:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Polynome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="145" column="1" selection-end-line="145" selection-end-column="1" />
+          <folding>
+            <marker date="1527008981886" expanded="true" signature="6:92" ph="..." />
+            <marker date="1527008981886" expanded="true" signature="111:4637" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="161:4634" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="227:342" ph="/// Конструктор копирования ... " />
+            <marker date="1527008981886" expanded="true" signature="395:587" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="637:717" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="727:973" ph="/// Неявное приведение типа &lt;see cref=&quot;Monome&quot;/&gt; к типу &lt;see cref=&quot;Polynome&quot;/&gt;. ... " />
+            <marker date="1527008981886" expanded="true" signature="1103:1324" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="1496:4611" ph="Operators" />
+            <marker date="1527008981886" expanded="true" signature="1582:1745" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="1822:1985" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="2062:2225" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="2290:2714" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="2781:3235" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="3308:3623" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="3891:4026" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="4093:4229" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="4296:4592" ph="{...}" />
+            <marker date="1527008981886" expanded="true" signature="4442:4555" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algebra/Monome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+          <folding>
+            <marker date="1527008242769" expanded="true" signature="6:102" ph="..." />
+            <marker date="1527008242769" expanded="true" signature="121:4381" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="147:4038" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="242:517" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="303:507" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="544:819" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="605:809" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="829:1017" ph="/// Конструктор монома. ... " />
+            <marker date="1527008242769" expanded="true" signature="1074:1152" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1197:1374" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1392:1525" ph="/// Конструктор копирования. ... " />
+            <marker date="1527008242769" expanded="true" signature="1563:1673" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="1793:2033" ph="/// Неявное приведение типа &lt;see cref=&quot;double&quot;/&gt; к типу &lt;see cref=&quot;Monome&quot;/&gt;. ... " />
+            <marker date="1527008242769" expanded="true" signature="2169:2452" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2462:4032" ph="Operators" />
+            <marker date="1527008242769" expanded="true" signature="2544:2639" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2712:2807" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="2880:2975" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4044:4106" ph="/// Сравнение по степени. ... " />
+            <marker date="1527008242769" expanded="true" signature="4159:4378" ph="{...}" />
+            <marker date="1527008242769" expanded="true" signature="4212:4372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ForTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <marker date="1527009386530" expanded="true" signature="6:43" ph="..." />
+            <marker date="1527009386530" expanded="true" signature="62:948" ph="{...}" />
+            <marker date="1527009386530" expanded="true" signature="91:946" ph="{...}" />
+            <marker date="1527009386530" expanded="true" signature="131:940" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

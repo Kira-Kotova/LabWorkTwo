@@ -1,0 +1,5 @@
+D:\Aliger\Lulz\LabWorkTwo\Algebra\bin\Debug\Algebra.dll
+D:\Aliger\Lulz\LabWorkTwo\Algebra\bin\Debug\Algebra.pdb
+D:\Aliger\Lulz\LabWorkTwo\Algebra\obj\Debug\Algebra.csprojResolveAssemblyReference.cache
+D:\Aliger\Lulz\LabWorkTwo\Algebra\obj\Debug\Algebra.dll
+D:\Aliger\Lulz\LabWorkTwo\Algebra\obj\Debug\Algebra.pdb
